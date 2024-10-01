@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Darío González
 
+Soy un desarrollador fullstack apasionado por las tecnologías modernas y el desarrollo eficiente. Actualmente, me especializo en:
 
-**dargonza/dargonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Frontend**: React, Next.js, TailwindCSS
+- **Backend**: Node.js, NestJS, TypeScript
+- **Otros**: Docker, PNPM, Git
 
-Here are some ideas to get you started:
+## 🚀 Mis Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1. [Nombre del Proyecto 1](link): Breve descripción del proyecto.
+2. [Nombre del Proyecto 2](link): Breve descripción del proyecto.
 
+## 🌱 Actualmente Aprendiendo
+
+- Integración continua y entrega continua (CI/CD) con GitHub Actions
+- Optimización de rendimiento con Next.js
+
+## 📫 ¿Cómo contactarme?
+
+- [LinkedIn](link-a-linkedin)
+- [Correo](tuemail@ejemplo.com)
+
+¡Gracias por visitar mi perfil!
